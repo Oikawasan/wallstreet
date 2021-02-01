@@ -154,4 +154,7 @@ footer span {
     .content-right img:hover {
         transform: scale(1.1);
     }
+    .navbar {
+        width: 100%;
+    }
 }
